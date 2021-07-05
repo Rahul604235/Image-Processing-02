@@ -1,6 +1,6 @@
 # Image-Processing-02
 
-Occlusion detection
+# Occlusion detection
 
 Given are two aerial images (IMG1.png, IMG2.png) of an airport parking bay. These images were cap-
 tured using two cameras placed at different locations and at different instants of time but overlooking
