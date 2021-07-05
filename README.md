@@ -3,13 +3,13 @@
 #Occlusion detection
 
 Given are two aerial images (IMG1.png, IMG2.png) of an airport parking bay. These images were cap-
-tured using two cameras placed at dierent locations and at dierent instants of time but overlooking
+tured using two cameras placed at different locations and at different instants of time but overlooking
 the same area. It is known that the images are related by an in-plane rotation and translation.
 The following point correspondences are given:
 
-Correspondence     IMG1 (x; y)     IMG2 (x; y)
-     1              (29; 124)       (93; 248)
-     2              (157; 372)      (328; 399)
+Correspondence   -  IMG1 (x; y)   -  IMG2 (x; y)
+     1           -  (29; 124)     -  (93; 248)
+     2           -   (157; 372)   -   (328; 399)
      
 Determine the changes in IMG2 with respect to IMG1.
 NOTE: Use bilinear interpolation during target-to-source mapping.
